@@ -1,0 +1,40 @@
+bloodhound
+saint bernard
+akita
+bichon frise
+shiva inu
+belgian malinois
+chocolate lab
+yellow lab
+alaskan husky
+german shepherd
+english bulldog
+australian shepherd
+beagle
+german shorthaired pointer
+boxer
+french bulldog
+labrador retriever
+poodle
+rottweiler
+dachshund
+corgi
+yorkshire terrier
+miniature schnauzer
+great dane
+shih tzu
+siberian husky
+pomeranian
+bernese mountain dog
+boston terrier
+shetland sheepdog
+brittany
+border collie
+belgian malinois
+chihuahua
+pug
+mastiff
+collie
+dalmatian
+papillon
+samoyed
